@@ -1,13 +1,3 @@
-/*
-  new: 
-  Press cd1 or cd2 to change bluetooth volume.
-  Cd change is resetting track number.
-
-  
-  By Thomas Landahl, 2017-04-25
-
-*/
-
 #define MELBUS_CLOCKBIT (byte)2 //Pin D2  - CLK
 #define MELBUS_DATA (byte)3     //Pin D3  - Data
 #define MELBUS_BUSY (byte)4     //Pin D4  - Busy
