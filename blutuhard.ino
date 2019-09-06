@@ -6,7 +6,7 @@
 #define MELBUS_DATA (byte)3     //Pin D3  - Data
 #define MELBUS_BUSY (byte)4     //Pin D4  - Busy
 
-const byte prevPin = 10;
+const byte prevPin = 10; // zamienić z playpin?
 const byte nextPin = 12;
 const byte upPin = 8;    //volume up
 const byte downPin = 9;  //volume down
